@@ -6,4 +6,4 @@ more text
 
 
 some more
-This will cause trouble
+some more changes stashing
